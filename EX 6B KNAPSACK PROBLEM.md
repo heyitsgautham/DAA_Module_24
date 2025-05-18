@@ -13,12 +13,13 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 5. Return maximum value: At each step, return the maximum value of including or excluding the current item. 
 
 ## Program:
-```
+
+```py
 /*
 To implement the program for 0/1 knapsack problem.
 
-Developed by: HIRUTHIK SUDHAKAR
-Register Number:  212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number:  212223240036
 */
 ```
 ```PYTHON
